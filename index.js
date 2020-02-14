@@ -28,11 +28,11 @@ function iLoveTheBeatles()
   for(var i=0;i<18;i++)
   {
    var num=0;
-    while(num < 8)
+    do
     {
       arr1[num]= "I love the Beatles!"
       num++;
-    }
+    }while(num < 8)
    
     if(i == 17 )
     {
