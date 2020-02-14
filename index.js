@@ -29,6 +29,7 @@ function iLoveTheBeatles(num)
     
     do
     {
+      arr[num]=num;
       arr[num]= "I love the Beatles!"
       num++;
       
