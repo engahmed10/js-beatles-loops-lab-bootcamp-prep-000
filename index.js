@@ -30,6 +30,7 @@ function iLoveTheBeatles(num)
     do
     {
       arr[num]= "I love the Beatles!"
+      num++;
       
     } while(num < 15)
     }
