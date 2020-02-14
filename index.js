@@ -23,9 +23,9 @@ function johnLennonFacts(arr)
 
 function iLoveTheBeatles(num)
 {
-  var arr1=[];
+   var arr1=[];
    var arr=[];
-  for(var i=0;i<18;i++)
+  for(var i=0;i<num.length;i++)
   {
    var num=0;
     do
