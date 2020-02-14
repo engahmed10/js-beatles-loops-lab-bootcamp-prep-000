@@ -32,9 +32,9 @@ function iLoveTheBeatles(num)
     {
       arr1[num]= "I love the Beatles!"
       num++;
-    }while(num < 8)
+    }while(num < 15)
    
-    if(i == 17 )
+    if(i == 15 )
     {
      arr ="I love the Beatles!"
     }
