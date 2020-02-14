@@ -20,6 +20,7 @@ function johnLennonFacts(arr)
   }
   return arr
 }
+
 function iLoveTheBeatles()
 {
   var arr1=[];
