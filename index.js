@@ -25,11 +25,12 @@ function iLoveTheBeatles(num)
 {
   
      var arr=[];
+     var i =0;
     do
     {
-     // for(var i=0;i<8;i++){
-      arr= "I love the Beatles!"
-     // }
+     
+      arr[i]= "I love the Beatles!"
+      i++;
       num++;
       
     } while(num < `15`)
