@@ -23,21 +23,14 @@ function johnLennonFacts(arr)
 
 function iLoveTheBeatles(num)
 {
-  // var arr1=[];
-   var arr=[];
- // for(var i=0;i<num.length;i++)
-//  {
-   //var num=0;
+  
+     var arr=[];
     do
     {
       arr[num]= "I love the Beatles!"
       num++;
-    } while(num < 15)
+    } while(num < 8)
    
-   // if(i == 15 )
-  //  {
-    // arr ="I love the Beatles!"
-    //}
-  
+ 
    return arr
 }
