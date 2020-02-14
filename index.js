@@ -25,14 +25,14 @@ function iLoveTheBeatles(num)
 {
   
      var arr=[];
-    if(arr[7]) 
-    {
+   
+    
     do
     {
       arr[num]= "I love the Beatles!"
       num++;
       
-    } while(num < 15)
-    }
+    } while(num < `15`)
+    
    return arr
 }
