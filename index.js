@@ -25,7 +25,7 @@ function iLoveTheBeatles(num)
 {
   
      var arr=[];
-    if(num==7) 
+    if(arr[7]) 
     {
     do
     {
