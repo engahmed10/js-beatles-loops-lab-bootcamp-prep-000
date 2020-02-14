@@ -33,10 +33,9 @@ function iLoveTheBeatles()
       num++;
     }
    
-  
     if(i == 17 )
     {
-      return (arr ="I love the Beatles!")
+     arr ="I love the Beatles!"
     }
   }
    return arr1
